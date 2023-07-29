@@ -1,8 +1,8 @@
-### Hi, I'm THANH LA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [THÀNH IT][website] = Software Engineer + Youtuber 🌻  
+### Hi, I'm TRINH CANH <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [THÀNH IT][website] = Software Engineer  🌻  
 
 
 - 🔭 Passion in something ... (secret😊)
-- 💪 2021 Goals: Learning many things in Python
+- 💪 2023 Goals: Learning many things in Python
 - ⭐: Reading, listening, walking, running, playing piano... and blade wind😅
 
 ### :zap: GitHub Stats
@@ -36,7 +36,5 @@
 ---
 
 ### 📫 Contact me via:
-- EMAIL: lathanhmta@gmail.com
-- YOTUBE: THÀNH IT
+- EMAIL: trinhngoccanh1997@gmail.com
 
-[website]: https://www.youtube.com/channel/UC9L5_YMFz8JfBeQtUic8-3A
