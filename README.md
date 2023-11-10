@@ -3,7 +3,7 @@
 
 - 🔭 Passion in something ... (secret😊)
 - 💪 2023 Goals: Learning many things in Python
-- ⭐: Reading, listening, walking, running, playing piano... and blade wind😅
+- ⭐: Reading, listening, walking, running...😅
 
 ### :zap: GitHub Stats
 
